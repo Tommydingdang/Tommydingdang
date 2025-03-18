@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a master student in linguistics at Utrecht University. My research interests are: psychological linguistics, applied linguistics, and cognitive linguistics.
 
 <!--
 **Tommydingdang/Tommydingdang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
